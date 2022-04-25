@@ -1,5 +1,5 @@
 <?php
 
-include_once("dicee.html");
+include_once("index.html");
 
 ?>
